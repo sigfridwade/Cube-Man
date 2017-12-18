@@ -17,4 +17,10 @@ public class MenuScript : MonoBehaviour {
 
 	}
 
+	public void OnMapClick() {
+	
+		Debug.Log("Map Button has been clicked!");
+
+	}
+
 }
